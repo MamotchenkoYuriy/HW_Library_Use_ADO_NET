@@ -1,0 +1,34 @@
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\InteractiveConsol.exe.config
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\InteractiveConsol.exe
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\InteractiveConsol.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\ArrayList.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\LibraryItems.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\Serializator.dll
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\ArrayList.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\LibraryItems.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\bin\Debug\Serializator.pdb
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\obj\Debug\InteractiveConsol.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\obj\Debug\InteractiveConsol.exe
+C:\Users\Yuriy\documents\visual studio 2013\Projects\NIX Solution\InteractiveConsol\obj\Debug\InteractiveConsol.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\InteractiveConsol.exe.config
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\InteractiveConsol.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\InteractiveConsol.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\ArrayList.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\LibraryItems.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\Serializator.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\ArrayList.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\LibraryItems.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\bin\Debug\Serializator.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\obj\Debug\InteractiveConsol.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\obj\Debug\InteractiveConsol.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3_Fixed\InteractiveConsol\obj\Debug\InteractiveConsol.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\obj\Debug\InteractiveConsol.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\obj\Debug\InteractiveConsol.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\obj\Debug\InteractiveConsol.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\bin\Debug\InteractiveConsol.exe.config
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\bin\Debug\InteractiveConsol.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\bin\Debug\InteractiveConsol.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\bin\Debug\DAO.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\bin\Debug\LibraryItems.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\bin\Debug\DAO.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\InteractiveConsol\bin\Debug\LibraryItems.pdb

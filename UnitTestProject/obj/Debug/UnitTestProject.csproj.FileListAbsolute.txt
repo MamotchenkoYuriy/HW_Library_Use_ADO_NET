@@ -1,0 +1,9 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\bin\Debug\DAO.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\bin\Debug\LibraryItems.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\bin\Debug\DAO.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Library_Use_ADO_NET\UnitTestProject\bin\Debug\LibraryItems.pdb

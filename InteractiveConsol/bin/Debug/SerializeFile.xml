@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLibraryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LibraryItem xsi:type="Book" Id="98694" Name="1" Year="1" Author="1" />
+  <LibraryItem xsi:type="Book" Id="14681" Name="1" Year="1" Author="1" />
+  <LibraryItem xsi:type="Book" Id="35392" Name="1" Year="1" Author="1" />
+  <LibraryItem xsi:type="Book" Id="96244" Name="1" Year="1" Author="1" />
+  <LibraryItem xsi:type="Book" Id="52372" Name="1" Year="1" Author="1" />
+  <LibraryItem xsi:type="Book" Id="25094" Name="Changed" Year="1111" Author="Changed" />
+  <LibraryItem xsi:type="Book" Id="22448" Name="Name " Year="321" Author="mnnd" />
+  <LibraryItem xsi:type="Journal" Id="78069" Name="Name " Year="32456" Number="321" />
+  <LibraryItem xsi:type="Journal" Id="27535" Name="jghdgf" Year="324" Number="6546" />
+</ArrayOfLibraryItem>
